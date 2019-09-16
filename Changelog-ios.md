@@ -1,5 +1,22 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.2.2
+
+### Changes
+* iOS 13 support
+* In geolocation notice, the optional 'View more' text is above the list of purposes
+
+## Version 2.2.1
+
+### New features
+* When in single step, the CTAs in the notice onboarding can scroll
+* The CTAs in the geolocation notice can scroll
+* The icon in the geolocation notice has been moved into scroll and can be enlarged
+* The title of the onboarding page can be changed by the client app
+
+### Fix
+* Fix a possible crash due to Appeareance selectors usage
+
 ## Version 2.2.0
 
 ### New features
@@ -24,8 +41,8 @@ on the extra purpose state
 ## Version 2.1.2
 
 ### Fix
-* Use `getConsentsByVendors` when needed in geo notice too
-* `getConsentsByVendors` also have a parameter for extra purposes
+* In geolocation notice, get the consents by vendors when needed
+* Getting consents by vendors also applies to extra purposes
 
 ## Version 2.1.1
 
@@ -120,7 +137,7 @@ AppConsent.setGeolocPurposesAuthorization(["foo": true, "bar": false]) { err in
 ## Version 1.5.0
 
 ### New features
-* Support of `feature` back platforms
+* Support of testing back platforms
 
 ### Changes
 * Less delegate methods to implement for simpler integration
@@ -144,7 +161,7 @@ AppConsent.setGeolocPurposesAuthorization(["foo": true, "bar": false]) { err in
 
 ### New features
 * Offline support
-* Uses IDFA as identifier is available, fallback on custom UUID otherwise
+* Uses IDFA as identifier if available, fallback on custom UUID otherwise
 
 ## Version 1.3
 
@@ -160,11 +177,6 @@ AppConsent.setGeolocPurposesAuthorization(["foo": true, "bar": false]) { err in
 * The *acceptAll* feature uses a specific protocol for delegation, `AppConsentAcceptAllDelegate`. 
 * Can synchronize the IAB values stored in `UserDefaults` with the consents from the backend API.
 * Can synchrnoize the notice GVL version. Updating the GVL version results in `shouldPresentNotice` to become true.
-
-
-## Version 1.1
-
-The changelog starts here. Previous versions won't be documented in this document.
 
 ### Main features
 * Present a native notice
