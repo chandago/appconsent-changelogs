@@ -1,5 +1,10 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.2.3
+
+### Fix
+* Swift 5.0 compatible build
+
 ## Version 2.2.2
 
 ### Changes
