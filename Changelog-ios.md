@@ -1,5 +1,14 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.3.0
+
+### New features
+* Texts for headers in notice can be customized from back-office
+* Clickable link to display vendors list in notice and geolocation notice
+
+### Changes
+* Geolocation notice presented in 'Form Sheet' on iPad
+
 ## Version 2.2.3
 
 ### Fix
