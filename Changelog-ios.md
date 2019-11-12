@@ -1,5 +1,30 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.3.3
+
+### New features
+* Added languages: de, es, it, nl, pl, pt
+
+### Fix
+* Use `BUILD_LIBRARY_FOR_DISTRIBUTION` set to `YES` to make the Swift 5.1 library compatible with Swift 5.1.2
+
+## Version 2.3.2
+
+### New features
+* Optional title in geoloc notice, can be set from the back-office.
+
+### Changes
+* Do not trigger an error when network store fails but only if local store fails.
+
+### Fix
+* On not consentables extra vendors, when re openning notice auth could be passed to `true`.
+
+## Version 2.3.1
+
+### New features
+* Extra vendors can have purposes for which they are on legitmitate interest
+* The notice can be displayed in *legitimate interest* mode
+
 ## Version 2.3.0
 
 ### New features
