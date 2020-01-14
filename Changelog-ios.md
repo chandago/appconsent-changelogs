@@ -1,5 +1,18 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.3.4
+
+### New features
+* The CMP does not start if the device's region is not inside EU. Can be ignored.
+* `shouldPresentGeolocationNotice()` method.
+* Methods to get IAB vendors and purposes status
+
+### Fix
+* iPad modale could have a broken size when app was built with Xcode 10.1 and app running on iOS 13.
+
+### Changes
+* The `shouldPresentNotice` var is now a method
+
 ## Version 2.3.3
 
 ### New features
