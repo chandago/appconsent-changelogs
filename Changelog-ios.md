@@ -1,5 +1,20 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.3.8
+
+### Changes
+* SFBX name in copyrights
+
+## Version 2.3.7
+
+### New features
+* XChange SDK
+
+## Version 2.3.6
+
+### Changes
+* Copyright in *on user demand* screen.
+
 ## Version 2.3.5
 
 ### Fix
