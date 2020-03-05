@@ -1,5 +1,10 @@
 # AppConsent Android SDK
 
+## v2.3.12 (03/2020)
+ - add `android.permission.ACCESS_BACKGROUND_LOCATION` permission to allow Android 10 devices to get background geolocation
+ - fix bug on single step
+ - fix bug on some devices to get location
+
 ## v2.3.11 (01/2020)
  - check GDPR country list before displaying notices and send xchange datas
  - fix bug on injection
