@@ -1,5 +1,10 @@
 # AppConsentKit SDK changelogs
 
+## Version 2.3.9
+
+### Changes
+* The links are underlined in the labels managing markdown links.
+
 ## Version 2.3.8
 
 ### Changes
