@@ -1,5 +1,9 @@
 # AppConsent Android SDK
 
+## v2.3.13 (03/2020)
+ - add Huq SDK to Xchange
+ - fix bug request location permission
+
 ## v2.3.12 (03/2020)
  - add `android.permission.ACCESS_BACKGROUND_LOCATION` permission to allow Android 10 devices to get background geolocation
  - fix bug on single step
