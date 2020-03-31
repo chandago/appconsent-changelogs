@@ -1,5 +1,9 @@
 # AppConsent Android SDK
 
+## v2.3.14 (04/2020)
+ - when call `startHuq()` locations permissions are not asked to user
+ - add AppConsentError and return more specific errors in callbacks
+
 ## v2.3.13 (03/2020)
  - add Huq SDK to Xchange
  - fix bug request location permission
