@@ -1,5 +1,8 @@
 # AppConsent Android SDK
 
+## v2.3.15 (04/2020)
+ - fix crash on `shareUserLocation()`
+
 ## v2.3.14 (04/2020)
  - when call `startHuq()` locations permissions are not asked to user
  - add AppConsentError and return more specific errors in callbacks
