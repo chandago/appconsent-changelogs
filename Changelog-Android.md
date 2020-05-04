@@ -1,5 +1,8 @@
 # AppConsent Android SDK
 
+## v2.3.16 (05/2020)
+ - fix bug on xchange, to get device mac address
+
 ## v2.3.15 (04/2020)
  - fix crash on `shareUserLocation()`
 
