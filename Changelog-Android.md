@@ -1,5 +1,8 @@
 # AppConsent Android SDK
 
+## v2.3.17 (07/2020)
+- if an new version of GVL is detected in `checkForUpdate()`, you can now call `presentNoticeActivity(false)` to display notice and re-ask consents like the first time
+
 ## v2.3.16 (05/2020)
  - fix bug on xchange, to get device mac address
 
