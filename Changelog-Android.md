@@ -1,5 +1,11 @@
 # AppConsent Android SDK
 
+## v2.3.18 (07/2020)
+- add Log when Locale.country is not defined
+- add `@JvmOverloads` on AppConsent constructor for Java client
+- remove certificate pinning
+- update Retrofit to get Okhttp 3.12
+
 ## v2.3.17 (07/2020)
 - if an new version of GVL is detected in `checkForUpdate()`, you can now call `presentNoticeActivity(false)` to display notice and re-ask consents like the first time
 
