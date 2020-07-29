@@ -4,7 +4,7 @@
 - detail view of a Stack
 - add legal description to consentable detail
 - external links in banner view open in browser
-- add a check for cmp_hash in checkForUpdate method and return true if no gvl version set
+- add a check for `cmp_hash` in `checkForUpdate` method and return `true` if no gvl version set
 - fix bug on `consentableAllowed()`, `stackAllowed()` and `vendorAllowed()` 
 
 ## 1.0.1 (07/2020)
