@@ -4,7 +4,7 @@
 - rename resource string folders
 - map disable success screen to remote theme
 - map CTA order to remote theme
-- simplify integration in dependencies
+- simplify `build.gradle` integration. Implementing `appconsent-core` is no more needed.
 
 ## 1.0.2 (31/07/2020)
 - detail view of a Stack
