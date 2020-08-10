@@ -1,6 +1,12 @@
 # AppConsent
 
-## 1.0.2 (07/2020)
+## 1.0.3 (10/08/2020)
+- rename resource string folders
+- map disable success screen to remote theme
+- map CTA order to remote theme
+- simplify integration in dependencies
+
+## 1.0.2 (31/07/2020)
 - detail view of a Stack
 - add legal description to consentable detail
 - external links in banner view open in browser
