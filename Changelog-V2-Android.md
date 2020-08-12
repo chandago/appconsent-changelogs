@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.0.4 (12/08/2020)
+- fix bug with CTA
+
 ## 1.0.3 (10/08/2020)
 - rename resource string folders
 - map disable success screen to remote theme
