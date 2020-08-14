@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.0.5 (14/08/2020)
+- fix bugs
+
 ## 1.0.4 (12/08/2020)
 - fix bug with CTA
 
