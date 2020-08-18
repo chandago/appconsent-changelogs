@@ -1,5 +1,8 @@
 # AppConsent Android SDK
 
+## v2.4.0 (18/08/2020)
+- replace `BottomBar` by `BottomSheetDialogFragment`
+
 ## v2.3.18 (07/2020)
 - add Log when Locale.country is not defined
 - add `@JvmOverloads` on AppConsent constructor for Java client
