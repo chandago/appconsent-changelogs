@@ -1,5 +1,9 @@
 # AppConsent
 
+## 1.0.6 (20/08/2020)
+- fix bug on Theme
+- fix switch alignment
+
 ## 1.0.5 (14/08/2020)
 - fix bugs
 
