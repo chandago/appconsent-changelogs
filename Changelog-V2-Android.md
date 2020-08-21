@@ -1,5 +1,9 @@
 # AppConsent
 
+## 1.0.7 (21/08/2020)
+- fix bug switch status on scroll
+- fix bug switch status in Stack detail view
+
 ## 1.0.6 (20/08/2020)
 - fix bug on Theme
 - fix switch alignment
