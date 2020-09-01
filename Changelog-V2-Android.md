@@ -4,6 +4,7 @@
 - refactor with new reducer
 - translate progress loading
 - geolocation view in fullscreen
+- Kotlin `1.4`
 
 ## 1.0.7 (21/08/2020)
 - fix bug switch status on scroll
