@@ -1,5 +1,10 @@
 # AppConsent
 
+## 1.0.8 (01/09/2020)
+- refactor with new reducer
+- translate progress loading
+- geolocation view in fullscreen
+
 ## 1.0.7 (21/08/2020)
 - fix bug switch status on scroll
 - fix bug switch status in Stack detail view
