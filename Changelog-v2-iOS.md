@@ -1,4 +1,4 @@
-# AppConsent v2
+# AppConsent v2 iOS
 
 ## 1.0.1
 
