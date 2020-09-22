@@ -1,5 +1,18 @@
 # AppConsent TV
 
+## 1.0.0-beta05 (22/09/2020)
+- add back buttons on many views
+- add intermediate view on back pressed on notice EDIT mode
+- hide second view on notice if empty
+- fix focus issue on accept all and refuse all
+- fix logo display on vendor list
+- improve tab layout navigation
+
+## 1.0.0-beta04 (07/09/2020)
+- transform radio button Accept/Refuse All to button
+- fix bug on object action
+- improve remote theme customization
+
 ## 1.0.0-beta03 (08/2020)
 - fix radio focus bug with first element
 - add background while radio is focus
