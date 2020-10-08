@@ -1,5 +1,14 @@
 # AppConsent
 
+## 1.0.10
+- update reducer for Android 4.4 compatibility
+- fix bugs
+
+## 1.0.9
+- fix bug on notice view, bad number of consentable
+- fix bug disable success screen
+- improvements
+
 ## 1.0.8 (01/09/2020)
 - refactor with new reducer
 - translate progress loading
