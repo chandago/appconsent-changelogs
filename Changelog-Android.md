@@ -1,5 +1,9 @@
 # AppConsent Android SDK
 
+## v2.4.1 (12/10/2020)
+- replace `dismiss()` by `dismissAllowingStateLoss()`
+- load gvl 202 from resources
+
 ## v2.4.0 (18/08/2020)
 - replace `BottomBar` by `BottomSheetDialogFragment`
 
