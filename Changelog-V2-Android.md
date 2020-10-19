@@ -1,5 +1,12 @@
 # AppConsent
 
+## 1.0.12 (19/10/2020)
+- fix bug NoticeListener call after completion, now it's called only after success of saveConsents()
+- remove NoticeListener to `setConsentableConsents()`
+
+## 1.0.11 (14/10/2020)
+- first Xchange version
+
 ## 1.0.10
 - update reducer for Android 4.4 compatibility
 - fix bugs
