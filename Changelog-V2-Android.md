@@ -1,5 +1,11 @@
 # AppConsent
 
+## 1.0.13 (28/10/2020)
+- button "Refine by partner" under button "Save" (AP-1187)
+- add externalIds: Map<String, String> method in AppConsentUI
+- catch crash and if app restart kill process
+- fix geolocation purposes bugs
+
 ## 1.0.12 (19/10/2020)
 - fix bug NoticeListener call after completion, now it's called only after success of saveConsents()
 - remove NoticeListener to `setConsentableConsents()`
