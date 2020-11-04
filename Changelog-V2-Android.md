@@ -1,5 +1,11 @@
 # AppConsent
 
+## 1.0.14 (04/11/2020)
+- fix crash on DI `provideAppConsentTheme()`, exit process if `mAppConsentTheme` not initialized
+- on tablet, notice is displayed in fullscreen by default
+- fix bug AP-1206
+- get default language text from BO
+
 ## 1.0.13 (28/10/2020)
 - button "Refine by partner" under button "Save" (AP-1187)
 - add externalIds: Map<String, String> method in AppConsentUI
