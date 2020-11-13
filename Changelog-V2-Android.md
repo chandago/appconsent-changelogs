@@ -1,5 +1,10 @@
 # AppConsent
 
+## 1.0.15 (13/11/2020)
+- translate more texts from BO
+- fix issue with RefuseAll action
+- fix Coroutine crash
+
 ## 1.0.14 (04/11/2020)
 - fix crash on DI `provideAppConsentTheme()`, exit process if `mAppConsentTheme` not initialized
 - on tablet, notice is displayed in fullscreen by default
