@@ -1,5 +1,15 @@
 # AppConsent TV
 
+## 1.0.0-RC03 (13/11/2020)
+- fix focus on mandatory fragment
+
+## 1.0.0-RC02 (29/10/2020)
+- catch crash and if app restart kill process
+
+## 1.0.0-RC (02/10/2020)
+- update libraries
+- fix save consent with empty cache
+
 ## 1.0.0-beta05 (22/09/2020)
 - add back buttons on many views
 - add intermediate view on back pressed on notice EDIT mode
