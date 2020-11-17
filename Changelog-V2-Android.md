@@ -3,6 +3,7 @@
 ## 1.0.16 (17/11/2020)
 - IABTCF_gdprApplies depends on `forceApplyGDPR` and phone's locale
 - fix bug on geolocation view (button Save was not displayed with one purpose geoloc)
+- add function `isSubjectToGDPR()`
 
 ## 1.0.15 (13/11/2020)
 - translate more texts from BO
