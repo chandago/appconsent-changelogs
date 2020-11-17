@@ -1,5 +1,8 @@
 # AppConsent TV
 
+## 1.0.0-RC04 (17/11/2020)
+- IABTCF_gdprApplies depends on `forceApplyGDPR` and phone's locale
+
 ## 1.0.0-RC03 (13/11/2020)
 - fix focus on mandatory fragment
 
