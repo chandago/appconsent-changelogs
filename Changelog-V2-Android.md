@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.0.17 (19/11/2020)
+- fix issue when downgrading GVL version to notice
+
 ## 1.0.16 (17/11/2020)
 - IABTCF_gdprApplies depends on `forceApplyGDPR` and phone's locale
 - fix bug on geolocation view (button Save was not displayed with one purpose geoloc)
