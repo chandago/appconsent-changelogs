@@ -1,5 +1,9 @@
 # AppConsent TV
 
+## 1.0.0-RC06 (20/11/2020)
+- add a new AppConsentLogListener to log details about client navigation
+- do not display partner view if no internet
+
 ## 1.0.0-RC05 (19/11/2020)
 - fix issue when downgrading GVL version to notice
 
