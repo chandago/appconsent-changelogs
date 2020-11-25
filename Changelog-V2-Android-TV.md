@@ -1,5 +1,9 @@
 # AppConsent TV
 
+## 1.0.0-RC07 (25/11/2020)
+- update modifier of classes to internal which are unused by user
+- add setExtraConsentableConsents(), extraVendorAllowed() and extraConsentableAllowed()
+
 ## 1.0.0-RC06 (20/11/2020)
 - add a new AppConsentLogListener to log details about client navigation
 - do not display partner view if no internet
