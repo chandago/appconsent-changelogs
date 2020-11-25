@@ -2,8 +2,8 @@
 
 ## 1.0.18 (25/11/2020)
 - fix bugs and improve SDK
-- add setExtraConsentableConsents(), extraVendorAllowed() and extraConsentableAllowed()
-- add save()
+- add `setExtraConsentableConsents()`, `extraVendorAllowed()` and `extraConsentableAllowed()`
+- add `save()`
 - save Google's additional consent in SharedPreferences
 
 ## 1.0.17 (19/11/2020)
