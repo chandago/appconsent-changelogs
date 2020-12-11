@@ -1,5 +1,12 @@
 # AppConsent
 
+## 1.1.0-beta01 (11/12/2020)
+- xchange add Smart-Traffik SDK
+- add `RequestLocationListener`: now app have to manage presentation of geolocation authorization modal
+- buttons AcceptAll and RefuseAll on Introduction are on same line
+- add `saveExternalIds()`
+- fix bugs and improve SDK
+
 ## 1.0.18 (25/11/2020)
 - fix bugs and improve SDK
 - add `setExtraConsentableConsents()`, `extraVendorAllowed()` and `extraConsentableAllowed()`
