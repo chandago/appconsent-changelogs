@@ -1,5 +1,9 @@
 # AppConsent TV
 
+## 1.1.0-beta01 (11/12/2020)
+- add `saveExternalIds()`
+- fix bugs and improve SDK
+
 ## 1.0.0-RC07 (25/11/2020)
 - update modifier of classes to internal which are unused by user
 - add setExtraConsentableConsents(), extraVendorAllowed() and extraConsentableAllowed()
