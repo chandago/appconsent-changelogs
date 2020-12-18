@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.1.0-beta02 (17/12/2020)
+- fix issue on `checkForUpdate()` when consent need synchronization
+
 ## 1.1.0-beta01 (11/12/2020)
 - xchange add Smart-Traffik SDK
 - add `RequestLocationListener`: now app have to manage presentation of geolocation authorization modal
