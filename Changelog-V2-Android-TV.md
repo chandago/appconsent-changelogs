@@ -1,5 +1,8 @@
 # AppConsent TV
 
+## 1.1.0-beta03 (22/12/2020)
+- fix bugs and improve SDK
+
 ## 1.1.0-beta01 (11/12/2020)
 - add `saveExternalIds()`
 - fix bugs and improve SDK
