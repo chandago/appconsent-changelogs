@@ -1,5 +1,9 @@
 # AppConsent
 
+## 1.1.0-beta03 (22/12/2020)
+- fix bug and improve SDK
+- add SDK Telescope to Xchange
+
 ## 1.1.0-beta02 (17/12/2020)
 - fix issue on `checkForUpdate()` when consent need synchronization
 
