@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.1.1 (19/01/2021)
+- add migration for switched sdk id and sdk version
+
 ## 1.1.0 (19/01/2021)
 - fix bugs and improve SDK
 
