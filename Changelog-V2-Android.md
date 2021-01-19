@@ -1,5 +1,8 @@
 # AppConsent
 
+## 1.1.0 (19/01/2021)
+- fix bugs and improve SDK
+
 ## 1.1.0-beta04 (14/01/2021)
 - xchange migrate Telescope to Pickwell
 - fix switched sdk id and sdk version
