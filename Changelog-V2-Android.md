@@ -1,5 +1,11 @@
 # AppConsent
 
+## 1.1.2
+- xchange update Smart Traffik SDK
+- xchange remove unused data (age, csp, dateOfBirth, household, revenues, firstName, lastName)
+- xchange add deviceSimCode and deviceCarrierCode
+- xchange remove Netperform and Pickwell
+
 ## 1.1.1 (19/01/2021)
 - add migration for switched sdk id and sdk version
 
