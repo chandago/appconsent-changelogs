@@ -1,5 +1,13 @@
 # AppConsent TV
 
+## 1.1.0 (26/02/2021)
+- migrate kotlin-android-extensions to view binding
+- add cookie expiration in vendor detail view for TCF 2.1 
+- delete description already displayed above from ConsentableDetail header
+- add legal dialog in ConsentableDetail
+- fix leg vendor radio display
+- encode ConsentString with flexible purposes
+
 ## 1.1.0-beta03 (22/12/2020)
 - fix bugs and improve SDK
 
