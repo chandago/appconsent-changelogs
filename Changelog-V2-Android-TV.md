@@ -1,5 +1,14 @@
 # AppConsent TV
 
+## 1.1.2 (04/03/2021)
+- fix consent string encode with restrictions
+
+## 1.1.2 (02/03/2021)
+- add google atp id feature
+
+## 1.1.1 (01/03/2021)
+- fix ui constraints for consent descriptions item
+
 ## 1.1.0 (26/02/2021)
 - migrate kotlin-android-extensions to view binding
 - add cookie expiration in vendor detail view for TCF 2.1 
