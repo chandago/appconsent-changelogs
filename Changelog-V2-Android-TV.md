@@ -1,6 +1,6 @@
 # AppConsent TV
 
-## 1.1.2 (04/03/2021)
+## 1.1.3 (04/03/2021)
 - fix consent string encode with restrictions
 
 ## 1.1.2 (02/03/2021)
