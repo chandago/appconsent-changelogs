@@ -1,5 +1,8 @@
 # AppConsent TV
 
+## 1.1.4 (05/03/2021)
+- fix bug on atp feature
+
 ## 1.1.3 (04/03/2021)
 - fix consent string encode with restrictions
 
